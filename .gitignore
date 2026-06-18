@@ -1,0 +1,24 @@
+# Bağımlılıklar
+node_modules/
+
+# Ortam değişkenleri
+.env
+
+# Log dosyaları
+*.log
+npm-debug.log*
+logs/
+
+# Docker volumes
+pgdata/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Build
+dist/
